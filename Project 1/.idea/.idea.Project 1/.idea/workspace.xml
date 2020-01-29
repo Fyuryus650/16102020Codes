@@ -22,8 +22,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/NewBehaviourScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/NewClass.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Event.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PowerUPTriggerEffect.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEvents.cs" />
       </list>
     </option>
   </component>
@@ -95,7 +95,7 @@
       <workItem from="1580146255286" duration="2588000" />
       <workItem from="1580178481243" duration="3028000" />
       <workItem from="1580314183024" duration="2000" />
-      <workItem from="1580314205969" duration="329000" />
+      <workItem from="1580314205969" duration="859000" />
     </task>
     <servers />
   </component>
