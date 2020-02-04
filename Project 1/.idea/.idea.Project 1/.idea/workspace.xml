@@ -17,6 +17,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PowerUPTriggerEffect.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/cameraMove.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggeringEvents.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -30,6 +31,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/TriggeringEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MouseEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/cameraMove.cs" />
       </list>
     </option>
   </component>
@@ -104,6 +106,7 @@
       <workItem from="1580314205969" duration="930000" />
       <workItem from="1580317641077" duration="3637000" />
       <workItem from="1580750391490" duration="4116000" />
+      <workItem from="1580842737666" duration="884000" />
     </task>
     <servers />
   </component>

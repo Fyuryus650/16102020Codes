@@ -1,6 +1,8 @@
 ﻿
+using System;
 using System.Timers;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class CharacterMovement : MonoBehaviour
 {
@@ -9,8 +11,10 @@ public class CharacterMovement : MonoBehaviour
     public float speed = 5f;
     public float gravity = -3f;
     public float jumpForce = 10f;
+    public UnityEvent cameraMove;
     void Start()
     {
+        
         
     }
 
@@ -25,5 +29,10 @@ public class CharacterMovement : MonoBehaviour
         positionDirection.z = Input.GetAxis("Horizontal") * -(speed);
         positionDirection.y += gravity;
         controller.Move(positionDirection*Time.deltaTime);
+    }
+
+    private void OnMouseDrag()
+    {
+       cameraMove.Invoke();
     }
 }
