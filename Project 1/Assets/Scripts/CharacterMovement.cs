@@ -22,7 +22,7 @@ public class CharacterMovement : MonoBehaviour
         {
             positionDirection.y = jumpForce;
         }
-        positionDirection.z = Input.GetAxis("Horizontal") * speed;
+        positionDirection.z = Input.GetAxis("Horizontal") * -(speed);
         positionDirection.y += gravity;
         controller.Move(positionDirection*Time.deltaTime);
     }
