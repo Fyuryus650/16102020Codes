@@ -13,8 +13,10 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Event.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MouseEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IfStatements.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RigidBodyForces.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PowerUPTriggerEffect.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/cameraMove.cs" root0="FORCE_HIGHLIGHTING" />
@@ -30,8 +32,10 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TriggeringEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MouseEvents.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IfStatements.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/cameraMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RigidBodyForces.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMovement.cs" />
       </list>
     </option>
   </component>
@@ -107,7 +111,8 @@
       <workItem from="1580317641077" duration="3637000" />
       <workItem from="1580750391490" duration="4116000" />
       <workItem from="1580842737666" duration="1022000" />
-      <workItem from="1580921720863" duration="2262000" />
+      <workItem from="1580921720863" duration="2454000" />
+      <workItem from="1581353661097" duration="3822000" />
     </task>
     <servers />
   </component>

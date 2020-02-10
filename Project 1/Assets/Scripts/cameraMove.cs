@@ -8,9 +8,13 @@ public class cameraMove : MonoBehaviour
 {
     public float x;
     public float y;
-    
 
-    void Update()
+    private void Start()
+    {
+        
+    }
+
+    private void Update()
         {
             float x = 5f * Input.GetAxis("Mouse X");
             float y = 5f * -Input.GetAxis("Mouse Y");

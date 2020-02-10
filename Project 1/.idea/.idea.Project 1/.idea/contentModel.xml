@@ -11,9 +11,11 @@
           <e p="cameraMove.cs" t="Include" />
           <e p="CharacterMovement.cs" t="Include" />
           <e p="Event.cs" t="Include" />
+          <e p="IfStatements.cs" t="Include" />
           <e p="MouseEvents.cs" t="Include" />
           <e p="NewClass.cs" t="Include" />
           <e p="PowerUPTriggerEffect.cs" t="Include" />
+          <e p="RigidBodyForces.cs" t="Include" />
           <e p="TriggerEvents.cs" t="Include" />
           <e p="TriggeringEvents.cs" t="Include" />
         </e>
