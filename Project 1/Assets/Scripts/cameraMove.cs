@@ -1,23 +1,13 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-// Code sourced from https://answers.unity.com/questions/1344322/free-mouse-rotating-camera.html
+﻿using UnityEngine;
 
-public class cameraMove : MonoBehaviour
+[RequireComponent(typeof(Camera))]
+public class CameraMove : MonoBehaviour
 {
-    public float x;
-    public float y;
+    private Camera cameraObj;
 
     private void Start()
     {
-        
+        cameraObj = GetComponent<Camera>();
     }
-
-    private void Update()
-        {
-            float x = 5f * Input.GetAxis("Mouse X");
-            float y = 5f * -Input.GetAxis("Mouse Y");
-            Camera.current.transform.Rotate(x, y, 0);
-        }
 }
+ 
