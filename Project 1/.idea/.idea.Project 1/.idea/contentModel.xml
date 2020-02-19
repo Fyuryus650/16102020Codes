@@ -11,7 +11,10 @@
           <e p="cameraMove.cs" t="Include" />
           <e p="CharacterMovement.cs" t="Include" />
           <e p="Event.cs" t="Include" />
+          <e p="FloatData.cs" t="Include" />
           <e p="IfStatements.cs" t="Include" />
+          <e p="ImageBehaviour.cs" t="Include" />
+          <e p="IntData.cs" t="Include" />
           <e p="LightOnEvent.cs" t="Include" />
           <e p="MouseEvents.cs" t="Include" />
           <e p="NewClass.cs" t="Include" />
