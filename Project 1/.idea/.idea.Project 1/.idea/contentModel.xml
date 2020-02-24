@@ -22,6 +22,7 @@
           <e p="PowerUPTriggerEffect.cs" t="Include" />
           <e p="RigidBodyForces.cs" t="Include" />
           <e p="SpriteController.cs" t="Include" />
+          <e p="textBehaviour.cs" t="Include" />
           <e p="TriggerEvents.cs" t="Include" />
           <e p="TriggeringEvents.cs" t="Include" />
         </e>

@@ -5,6 +5,7 @@ using UnityEngine.UI;
 public class ImageBehaviour : MonoBehaviour
 {
     private Image imageObj;
+    public FloatData dataObj;
    
     private void Start()
     {
@@ -14,6 +15,6 @@ public class ImageBehaviour : MonoBehaviour
     
     void Update()
     {
-        
+        imageObj.fillAmount = dataObj.value;
     }
 }
