@@ -9,7 +9,6 @@ public class ImageBehaviour : MonoBehaviour
     private void Start()
     {
         imageObj = GetComponent<Image>();
-        
     }
 
     
