@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 799ed35cdf6295a4fabd4ed0a99d5470, type: 3}
-  m_Name: Score
+  m_Script: {fileID: 11500000, guid: c903a690dee102b438dd622b35f33b49, type: 3}
+  m_Name: WeaponsCollection
   m_EditorClassIdentifier: 
-  value: 0
+  collectables: []

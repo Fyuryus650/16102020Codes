@@ -9,7 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 799ed35cdf6295a4fabd4ed0a99d5470, type: 3}
-  m_Name: Score
+  m_Script: {fileID: 11500000, guid: 682c85648291494469a50d7b060320a7, type: 3}
+  m_Name: YellowCircle
   m_EditorClassIdentifier: 
-  value: 0
+  powerLevel: 25
+  colectableColor: {r: 0, g: 0.10866976, b: 1, a: 1}
+  collectableSprite: {fileID: 21300000, guid: 48fc634e49aa9244da7fd72ae1e9da98, type: 3}

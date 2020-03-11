@@ -10,6 +10,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 00b28927864b6f24d983e4e3ac357644, type: 3}
-  m_Name: Health
+  m_Name: AmmoCount
   m_EditorClassIdentifier: 
   value: 1

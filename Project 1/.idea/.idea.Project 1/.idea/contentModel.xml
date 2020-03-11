@@ -10,6 +10,8 @@
         <e p="Scripts" t="Include">
           <e p="cameraMove.cs" t="Include" />
           <e p="CharacterMovement.cs" t="Include" />
+          <e p="Collectable.cs" t="Include" />
+          <e p="CollectableList.cs" t="Include" />
           <e p="Event.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="HealthBar.cs" t="Include" />
@@ -17,6 +19,7 @@
           <e p="ImageBehaviour.cs" t="Include" />
           <e p="IntData.cs" t="Include" />
           <e p="LightOnEvent.cs" t="Include" />
+          <e p="ListAndLoops.cs" t="Include" />
           <e p="MouseEvents.cs" t="Include" />
           <e p="NewClass.cs" t="Include" />
           <e p="PowerUPTriggerEffect.cs" t="Include" />
