@@ -28,9 +28,11 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/textBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ImageBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnumsSwitches.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/IntData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LightOnEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ListAndLoops.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Debugger.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -58,6 +60,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/ListAndLoops.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Collectable.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CollectableList.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Debugger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnumsSwitches.cs" />
       </list>
     </option>
   </component>
@@ -139,7 +143,8 @@
       <workItem from="1582131111537" duration="3881000" />
       <workItem from="1582561619386" duration="1378000" />
       <workItem from="1582564439061" duration="3453000" />
-      <workItem from="1583942853654" duration="3713000" />
+      <workItem from="1583942853654" duration="3953000" />
+      <workItem from="1584980045106" duration="2909000" />
     </task>
     <servers />
   </component>
