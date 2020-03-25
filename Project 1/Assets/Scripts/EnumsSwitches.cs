@@ -26,13 +26,13 @@ public class EnumsSwitches : MonoBehaviour
     }
 
     public PlayerStates currentPlayerState;
-    
-    void Start()
+
+    public void ChangeStateToPlaying()
     {
-        
+        currentGameState = GameStates.Playing;
     }
 
-    
+
     void Update()
     {
         switch (currentPlayerState)
